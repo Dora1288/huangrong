@@ -1,0 +1,8 @@
+theme_color: light
+enable_darkmode: true
+
+navbar_fixed: true
+footer_fixed: true
+
+socials:
+  github: Dora1288
