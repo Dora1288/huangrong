@@ -1,13 +1,13 @@
 ---
-layout: about
-title: about
+layout: ABOUTME
+title: ABOUTME
 permalink: /
-subtitle: PhD Student | Micromobility & AI Researcher
+subtitle: PhD Student | Transportation Engineering & XAI
 
 profile:
   align: right
   image: profile.JPG
-  image_circular: false
+  image_circular: true
   
 news: true
 selected_papers: true
