@@ -1,16 +1,35 @@
 # Rong Huang
-# Hi 👋, I'm Rong Huang
 
-### PhD candidate
+<img src="./profile.JPG" alt="Rong Huang" width="220" align="right">
 
-- 🔭 I'm currently working on **College of Transportation, Tongji University**
+PhD student in Transportation Engineering at Tongji University.
 
-- 🌱 I'm currently learning **Graph model, Causal inference, Microscopic traffic flow, Traffic simulation, Trajectory prediction, Explainable artificial intelligence (XAI)**
+My research focuses on micromobility systems, microscopic behavioural modelling,
+causal inference, and physics-informed graph neural networks.
 
-- 📫 How to reach me **hrong@tongji.edu.cn**
+## Research Interests
 
-- 👨‍💻 All of my projects are available at **[https://scholar.google.com/citations?user=rGOBz7cAAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=rGOBz7cAAAAJ&hl=zh-CN)**
+- Micromobility systems: bicycles, e-bikes, and e-scooters
+- Graph neural networks and spatio-temporal modelling
+- Causal inference and explainable AI
+- Microscopic traffic flow modelling
+- Behaviour-aware trajectory prediction
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
+## Current Work
 
+- Physics-informed GNN models for bicycle trajectory prediction
+- Mixed traffic interaction modelling
+- Urban traffic system analysis and evaluation
+
+## Contact
+
+- Email: hrong@tongji.edu.cn
+- GitHub: https://github.com/Dora1288
+- Google Scholar: https://scholar.google.com/citations?user=rGOBz7cAAAAJ&hl=zh-CN
+
+## Website
+
+This repository includes a simple static academic homepage. After GitHub Pages
+is enabled for the `main` branch, the site will be available at:
+
+https://dora1288.github.io/huangrong/

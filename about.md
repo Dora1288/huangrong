@@ -6,7 +6,7 @@ subtitle: PhD Student | Micromobility & AI Researcher
 
 profile:
   align: right
-  image: your_photo.jpg
+  image: profile.JPG
   image_circular: false
 
 news: true
