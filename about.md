@@ -6,7 +6,7 @@ subtitle: PhD Student | Micromobility & AI Researcher
 
 profile:
   align: right
-  image: profile.JPG
+  image: researchprofile.jpg
   image_circular: false
 
 news: true
@@ -28,19 +28,28 @@ I aim to bridge **individual-level behavioural mechanisms** and **system-level t
 - 🚲 Micromobility (bicycles, e-bikes, e-scooters)
 - 🧠 Graph Neural Networks (GNNs)
 - 🔍 Causal Inference & Explainable AI
-- 📊 Microscopic Traffic Flow Modelling
-- 🌐 Spatio-temporal Modelling
+- 📊 Microscopic Traffic Flow Modeling
+- 🌐 Spatio-temporal Modeling
 
+
+
+| Area | Keywords |
+| --- | --- |
+| Micromobility | bicycles, e-bikes, e-scooters, autonomous delivery robots, mixed traffic environments (with a focus on real-world scenarios in China, captured via computer vision and UAVs) |
+| Machine Learning | GNNs, spatio-temporal modeling, world models, causal ML |
+| Causal AI | causal inference, explainable AI (XAI), behavioral mechanisms |
+| Traffic Systems | microscopic traffic flow, simulation, traffic dynamics |
 ---
 
 ## 🌍 Research Vision
 
-My long-term research goal is to develop **interpretable and physically consistent learning models** for complex transportation systems.
+My long-term research goal is to develop **interpretable, physically consistent learning models** for complex transportation systems.
 
 I am particularly interested in:
-- Behaviour-aware trajectory prediction  
-- Human–vehicle interaction modelling  
-- Physics-informed machine learning for mobility systems  
+- Causality-based methods for inferring counterfactual worlds
+- Reliable, robust, and generalizable learning models for safety-critical systems
+- Microscopic behavioral modeling and macroscopic system evolution
+- World model construction and synergistic closed-loop system evolution (learning) 
 
 ---
 

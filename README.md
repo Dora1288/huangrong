@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="./profile.JPG" alt="Rong Huang" width="185">
+  <img src="./researchprofile.jpg" alt="Research profile graphic" width="260">
 
   <h1>Hi, I'm Rong Huang 👋</h1>
-  <p><strong>PhD Student in Transportation Engineering, Tongji University</strong></p>
-  <p>Micromobility · Physics-Informed AI · Causal Inference · Graph Neural Networks</p>
+  <p><strong>PhD Student in College of Transportation, Tongji University</strong></p>
+  <p>Micromobility · Physics-Informed Models · Causal Inference · Graph Neural Networks · Traffic Simulation · Explainable AI </p>
 
   <p>
     <a href="mailto:hrong@tongji.edu.cn">
@@ -20,45 +20,48 @@
 
 ---
 
-## About Me
+## 👤 About Me
 
-I am a PhD student in Transportation Engineering at Tongji University. My research focuses on micromobility systems, microscopic behavioural modelling, causal inference, and physics-informed graph neural networks.
+I am a PhD student in College of Transportation at Tongji University. My research focuses on micromobility, microscopic traffic simulation, behavioral modeling, causal inference, and physics-informed graph neural networks.
 
-I hope to connect individual-level behavioural mechanisms with system-level traffic dynamics, and to build models that are both accurate and interpretable.
 
-## Research Map
+I aim to bridge individual-level behavioral mechanisms with system-level traffic dynamics, and to develop models that are both accurate and interpretable. My current research focuses on building explainable AI models for transportation system modeling and behavioral mechanism analysis using causal inference methods, with the goal of enabling safer and more reliable transportation systems and world models.
 
-```mermaid
-flowchart LR
-  A[Micromobility Data] --> B[Behaviour Modelling]
-  B --> C[Physics-Informed GNNs]
-  B --> D[Causal Inference]
-  C --> E[Trajectory Prediction]
-  D --> F[Explainable Mobility Decisions]
-  E --> G[Safer Urban Mobility]
-  F --> G
-```
+## 🔬 Research Interests
 
-## Research Interests
+- 🚲 Micromobility (bicycles, e-bikes, e-scooters, autonomous delivery robots (with a focus on real-world scenarios in China, captured via computer vision and UAVs))
+- 🕸️ Graph Neural Networks (GNNs)
+- 🔍 Causal Inference & Explainable AI
+- 📊 Microscopic Traffic Flow Modeling
+- 🌐 Spatio-temporal Modeling
 
-| Area | Keywords |
-| --- | --- |
-| Micromobility | bicycles, e-bikes, e-scooters, mixed traffic |
-| Machine Learning | graph neural networks, spatio-temporal modelling, world models |
-| Causal AI | causal inference, explainability, behavioural mechanisms |
-| Traffic Systems | microscopic flow, simulation, network performance |
 
-## Current Work
+## 🌍 Research Vision
+
+My long-term research goal is to develop **interpretable, physically consistent learning models** for complex transportation systems.
+
+I am particularly interested in:
+- Causality-based methods for inferring counterfactual worlds
+- Reliable, robust, and generalizable learning models for safety-critical systems
+- Microscopic behavioral modeling and macroscopic system evolution
+- (learning) World model construction and closed-loop system co-evolution
+
+
+## 📌 Current Work
 
 - Physics-informed graph neural networks for bicycle trajectory prediction
-- Mixed traffic interaction modelling for micromobility users and vehicles
+- Mixed traffic interaction modeling for micromobility users and vehicles
 - Simulation-based evaluation of urban traffic systems
-- Behaviour-aware and interpretable learning models for mobility research
+- Behaviour-sensitive and causal-informed learning models for NMVs 
 
-## Languages and Tools
+## 📰 News
+Research updates will be added after the related work is public.
+
+
+## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,git,github,anaconda,c,figma,nodejs,unity" alt="Python, PyTorch, Git, GitHub, Anaconda, C, Figma, Node.js, Unity">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,git,github,anaconda,c,figma,nodejs" alt="Python, PyTorch, Git, GitHub, Anaconda, C, Figma, Node.js">
 </p>
 
 <p align="left">
@@ -66,23 +69,27 @@ flowchart LR
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="46" height="46">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="46" height="46">
   <img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" width="46" height="46">
+  <img src="./assets/img/SUMO.png" alt="SUMO Traffic Simulation" width="54">
 </p>
 
-## Selected Publications
 
-- **R. Huang**, Y. Bai, H. Shi. *DyScene: Enhancing Physical Realism via Physics-Informed Graph Neural Networks for Bicycle Trajectories*. Transportation Research Board, 2026.
-- **R. Huang**, Y. Bai. *Lateral Position Preference of Non-motorized Vehicles*. Cross-Strait Conference on Urban Transportation, 2025.
-- **R. Huang**, Y. Bai, N. Wu. *Enterprises' Participation Preference toward Platooning Operation*. CICTP 2025.
 
-## GitHub Snapshot
+
+## 📊 GitHub Snapshot
 
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dora1288&show_icons=true&hide_border=true&title_color=0f766e&icon_color=bc4b51&text_color=243238&bg_color=ffffff" alt="GitHub stats">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dora1288&layout=compact&hide_border=true&title_color=0f766e&text_color=243238&bg_color=ffffff" alt="Top languages">
 </p>
 
-## Website
+## 🌐 Website
 
 The static academic homepage in this repository is designed to work without a complicated Jekyll theme:
 
 https://dora1288.github.io/huangrong/
+
+## 📫 Contact
+
+- Email: huangrong200121@gmail.com/2310790@tongji.edu.cn  
+- GitHub: https://github.com/Dora1288  
+-  Google Scholar: https://scholar.google.com/citations?user=rGOBz7cAAAAJ&hl=zh-CN
