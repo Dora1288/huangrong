@@ -55,7 +55,7 @@ I am particularly interested in:
 - Behaviour-sensitive and causal-informed learning models for NMVs 
 
 ## 📰 News
-Research updates will be added after the related work is public.
+🎉 Our paper has accepted by TRB 2026.
 
 
 ## 🛠️ Languages and Tools
