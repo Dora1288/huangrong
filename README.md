@@ -55,7 +55,7 @@ I am particularly interested in:
 - Behaviour-sensitive and causal-informed learning models for NMVs 
 
 ## 📰 News
-🎉 Our paper has accepted by TRB 2026.
+🎉 Our paper has been accepted by TRB 2026.
 
 
 ## 🛠️ Languages and Tools
@@ -74,13 +74,6 @@ I am particularly interested in:
 
 
 
-
-## 📊 GitHub Snapshot
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dora1288&show_icons=true&hide_border=true&title_color=0f766e&icon_color=bc4b51&text_color=243238&bg_color=ffffff" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dora1288&layout=compact&hide_border=true&title_color=0f766e&text_color=243238&bg_color=ffffff" alt="Top languages">
-</p>
 
 ## 🌐 Website
 
